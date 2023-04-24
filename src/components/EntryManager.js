@@ -39,4 +39,3 @@ export const updateEntry = entry => {
     body: JSON.stringify(entry)
   })
 };
-
